@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--🔭 I’m currently studying at Epita
+- 🔭 I’m currently studying at Epita
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 42 is always the answer
 
