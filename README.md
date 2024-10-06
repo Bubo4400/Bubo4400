@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+-🔭 I’m currently studying at Epita
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 42 is always the answer
+
 <!--
 **Bubo4400/Bubo4400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
