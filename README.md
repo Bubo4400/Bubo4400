@@ -3,22 +3,20 @@
 </div>
 
 ## 🎯 Fun Facts 
-> [!NOTE]  
-> - I'm passionate about computer science 💻  
-> - I’m currently in an engineering school for informatics 📍  
-> - I’m always looking to learn more 📘  
-> - My favorite number is **42** 🔢   
+- I'm passionate about computer science 💻  
+- I’m currently in an engineering school for informatics 📍  
+- I’m always looking to learn more 📘  
+- My favorite number is **42** 🔢   
 
 ---
 
 ## 📊 GitHub Stats  
-
 <div align="left">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Bubo4400&hide_border=true&card_width=150&card_height=50&background=EB003D00&border=1F6FEB&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=7BC2EB&dates=7BC2EB&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Bubo4400&hide_border=true&card_width=450&background=EB003D00&border=1F6FEB&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB">
     </a>
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bubo4400&theme=github-dark&point=00000000&radius=15#gh-dark-mode-only" alt="GitHub Activity Graph" height="110%" width="65%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bubo4400&theme=github-dark&point=00000000&radius=15#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
 </div>
 
@@ -47,5 +45,7 @@
     <a href="https://discordapp.com/users/1198026893178458203" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <img src="https://img.shields.io/badge/Mail-zachturtle4@gmail.com-red?style=for-the-badge&logoSize=10px" alt="E-mail">
+    <a href="mailto:zachturtle4@gmail.com">
+        <img src="https://img.shields.io/badge/Mail-zachturtle4@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
 </div>
