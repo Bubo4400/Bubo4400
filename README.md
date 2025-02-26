@@ -45,7 +45,7 @@
 ## 💬 How to reach me  
 <div align="left">
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord/users/1198026893178458203">
     </a>
     <img src="https://img.shields.io/badge/Mail-zachturtle4@gmail.com-red?style=for-the-badge&logoSize=10px" alt="E-mail">
 </div>
