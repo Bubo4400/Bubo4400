@@ -6,7 +6,7 @@
 - I'm passionate about computer science 💻  
 - I’m currently in an engineering school for informatics 📍  
 - I’m always looking to learn more 📘  
-- My favorite number is **42** 🔢   
+- My favorite number is **4** 🔢   
 
 ---
 
