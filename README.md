@@ -46,6 +46,6 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
     <a href="mailto:zach4coates@gmail.com">
-        <img src="https://img.shields.io/badge/Mail-zachturtle4@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+        <img src="https://img.shields.io/badge/Mail-zach4coates@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
     </a>
 </div>
