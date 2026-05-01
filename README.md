@@ -45,7 +45,7 @@
     <a href="https://discordapp.com/users/1198026893178458203" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="mailto:zachturtle4@gmail.com">
+    <a href="mailto:zach4coates@gmail.com">
         <img src="https://img.shields.io/badge/Mail-zachturtle4@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
     </a>
 </div>
