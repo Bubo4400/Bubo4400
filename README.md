@@ -14,8 +14,9 @@ lang_02         = "C#"
 lang_03         = "C"
 
 [projects]
-project_01      = "DigitDrift"
-project_02      = "Work-station"
+project_01      = "Plantheon"
+project_02      = "DigitDrift"
+project_03      = "Work-station"
 
 [current_focus]
 focus_01        = "Computer Science"
