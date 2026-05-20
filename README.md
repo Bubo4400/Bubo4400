@@ -1,47 +1,44 @@
-# Zach
+┌──(bubo4400@bubo-core)-[~/github]\
+└─$ cat README.md
+```bash
+[identity]
+name            = "Zachary"
+status          = "under_construction"
+mood            = "quietly_building"
+version         = "19.10.28"
+last_update     = "2026-05-20"
 
-A space for the things I’m building, learning, and refining.
+[languages]
+lang_01         = "Python"
+lang_02         = "C#"
+lang_03         = "C"
 
----
+[projects]
+project_01      = "Benfords Law"
+project_02      = "Workstation"
 
-## Projects
-- **[Project Name](ca://s?q=Add_project_name)** — short description  
-- **[Project Name](ca://s?q=Add_project_name)** — short description  
-- **[Project Name](ca://s?q=Add_project_name)** — short description  
+[current_focus]
+focus_01        = "Computer Science"
+focus_02        = "Machine Learning"
+focus_03        = "Handball"
+focus_04        = "Sailing"
 
-(Add or remove lines as needed.)
+[quotes]
+quote_01 = """
+To live is to risk it all;
+otherwise, you’re just an inert chunk of randomly assembled molecules
+drifting wherever the universe blows you
+"""
+source_01 = "Rick Sanchez"
 
----
+quote_02 = """
+When you have eliminated the impossible,
+whatever remains, however improbable,
+must be the truth.
+"""
+source_02 = "Sherlock Holmes"
 
-## Current Focus
-- [Area of study](ca://s?q=Add_area_of_study)  
-- [Tool or language](ca://s?q=Add_tool_or_language)  
-- [Problem you’re exploring](ca://s?q=Add_problem_exploration)  
-
----
-
-## Notes
-A few things I want to remember:
-- [Thought or reminder](ca://s?q=Add_thought_or_reminder)  
-- [Idea worth revisiting](ca://s?q=Add_idea_worth_revisiting)  
-- [Something I learned](ca://s?q=Add_something_I_learned)  
-
----
-
-## Contact
-(Optional)  
-[Link or handle](ca://s?q=Add_contact_info)
-
----
-
-`This README evolves over time.`
-
-## 💬 How to reach me  
-<div align="left">
-    <a href="https://discordapp.com/users/1198026893178458203" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="mailto:zach4coates@gmail.com">
-        <img src="https://img.shields.io/badge/Mail-zach4coates@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-    </a>
-</div>
+[contact]
+email           = "zach4coates@gmail.com"
+discord         = "bubo4400"
+```
