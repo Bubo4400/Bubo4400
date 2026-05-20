@@ -1,44 +1,40 @@
-<div align="center">
-    <h1><b>✨ Hi, I’m <a href="https://github.com/Bubo4400">Bubo4400</a> ✨</b></h1>
-</div>
+# Zach
 
-## 🎯 Fun Facts 
-- I'm passionate about computer science 💻  
-- I’m currently in an engineering school for informatics 📍  
-- I’m always looking to learn more 📘  
-- My favorite number is **4** 🔢   
+A space for the things I’m building, learning, and refining.
 
 ---
 
-## 📊 GitHub Stats  
-<div align="left">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Bubo4400&hide_border=true&card_width=450&background=EB003D00&border=1F6FEB&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB">
-    </a>
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bubo4400&theme=github-dark&point=00000000&radius=15#gh-dark-mode-only" alt="GitHub Activity Graph">
-    </a>
-</div>
+## Projects
+- **[Project Name](ca://s?q=Add_project_name)** — short description  
+- **[Project Name](ca://s?q=Add_project_name)** — short description  
+- **[Project Name](ca://s?q=Add_project_name)** — short description  
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bubo4400&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</p>
+(Add or remove lines as needed.)
 
 ---
 
-## 🪛 Languages & Technologies  
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bubo4400&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=15" alt="Top Languages" align="left"/>
-</div>
-
-### 🔧 Technologies I Use  
-<a href="#gh-dark-mode-only">
-    <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFF824#gh-dark-mode-only">
-</a>
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="OCaml" src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=black">
+## Current Focus
+- [Area of study](ca://s?q=Add_area_of_study)  
+- [Tool or language](ca://s?q=Add_tool_or_language)  
+- [Problem you’re exploring](ca://s?q=Add_problem_exploration)  
 
 ---
+
+## Notes
+A few things I want to remember:
+- [Thought or reminder](ca://s?q=Add_thought_or_reminder)  
+- [Idea worth revisiting](ca://s?q=Add_idea_worth_revisiting)  
+- [Something I learned](ca://s?q=Add_something_I_learned)  
+
+---
+
+## Contact
+(Optional)  
+[Link or handle](ca://s?q=Add_contact_info)
+
+---
+
+`This README evolves over time.`
 
 ## 💬 How to reach me  
 <div align="left">
