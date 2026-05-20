@@ -56,6 +56,6 @@ source_02 = "Sherlock Holmes"
 
 ┌──(bubo4400@bubo-core)-[~/github]\
 └─$ ls contact/\
-&nbsp;🗁 [mail/](mailto:zach4coates@gmail.com)\
-&nbsp;🗁 [discord/](https://discord.com/users/1198026893178458203)\
-&nbsp;🗁 [linkedin/](www.linkedin.com/in/zachary-coates-26a645410)
+🗁 [mail/](mailto:zach4coates@gmail.com)\
+🗁 [discord/](https://discord.com/users/1198026893178458203)\
+🗁 [linkedIn/](www.linkedin.com/in/zachary-coates-26a645410)
