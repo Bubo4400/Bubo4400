@@ -21,7 +21,7 @@ lang_03         = "C"
 ```ini
 project_01      = "DigitDrift"
 project_02      = "Plantheon"
-project_03      = "Rabbyte"
+project_03      = "Greedy-Rabbyte"
 project_04      = "Work-station"
 ```
 
