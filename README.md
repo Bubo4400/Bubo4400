@@ -18,12 +18,10 @@ lang_03         = "C"
 
 ┌──(bubo4400@bubo-core)-[~/github]\
 └─$ ls projects.txt/\
-```ini
 🗁 [DigitDrift/](https://github.com/Bubo4400/DigitDrift)\
 🗁 [Plantheon/](https://github.com/Bubo4400/Plantheon)\
 🗁 [Greedy-Rabbyte/](https://github.com/Bubo4400/Greedy-Rabbyte)\
 🗁 [Work-Station/](https://github.com/Bubo4400/Work-Station)\
-```
 
 ┌──(bubo4400@bubo-core)-[~/github]\
 └─$ cat focus.txt
@@ -57,8 +55,6 @@ source_02 = "Sherlock Holmes"
 
 ┌──(bubo4400@bubo-core)-[~/github]\
 └─$ ls contact/\
-```ini
 🗁 [mail/](mailto:zach4coates@gmail.com)\
 🗁 [discord/](https://discord.com/users/1198026893178458203)\
 🗁 [linkedIn/](www.linkedin.com/in/zachary-coates-26a645410)\
-```
