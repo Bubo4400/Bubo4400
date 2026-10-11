@@ -4,8 +4,8 @@
 name            = "Zachary Coates"
 status          = "under_construction"
 mood            = "quietly_building"
-version         = "20.03.07"
-last_update     = "29/09/2026"
+version         = "20.03.19"
+last_update     = "11/10/2026"
 ```
 
 ┌──(bubo4400@bubo-core)-[~/github]\
@@ -17,12 +17,12 @@ lang_03         = "C"
 ```
 
 ┌──(bubo4400@bubo-core)-[~/github]\
-└─$ cat projects.txt
+└─$ ls projects.txt
 ```ini
-project_01      = "DigitDrift"
-project_02      = "Plantheon"
-project_03      = "Greedy-Rabbyte"
-project_04      = "Work-station"
+🗁 DigitDrift/
+🗁 Plantheon/
+🗁 Greedy-Rabbyte/
+🗁 Work-station/
 ```
 
 ┌──(bubo4400@bubo-core)-[~/github]\
