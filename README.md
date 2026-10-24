@@ -57,4 +57,4 @@ source_02 = "Sherlock Holmes"
 └─$ ls contact/\
 🗁 [mail/](mailto:zach4coates@gmail.com)\
 🗁 [discord/](https://discord.com/users/1198026893178458203)\
-🗁 [linkedIn/](www.linkedin.com/in/zachary-coates-26a645410)
+🗁 [linkedIn/](https://www.linkedin.com/in/zachary-coates-26a645410)
