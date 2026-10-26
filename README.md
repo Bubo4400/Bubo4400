@@ -19,6 +19,7 @@ lang_03         = "C"
 ┌──(bubo4400@bubo-core)-[~/github]\
 └─$ ls projects.txt/\
 🗁 [DigitDrift/](https://github.com/Bubo4400/DigitDrift)\
+🗁 [Bloom_Filter](https://github.com/Bubo4400/Bloom_filter)\
 🗁 [Plantheon/](https://github.com/Bubo4400/Plantheon)\
 🗁 [Greedy-Rabbyte/](https://github.com/Bubo4400/Greedy-Rabbyte)\
 🗁 [Work-Station/](https://github.com/Bubo4400/Work-Station)
