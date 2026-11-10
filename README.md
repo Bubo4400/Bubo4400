@@ -4,8 +4,8 @@
 name            = "Zachary Coates"
 status          = "under_construction"
 mood            = "quietly_building"
-version         = "20.03.19"
-last_update     = "11/10/2026"
+version         = "20.04.19"
+last_update     = "10/11/2026"
 ```
 
 ┌──(bubo4400@bubo-core)-[~/github]\
@@ -17,7 +17,7 @@ lang_03         = "C"
 ```
 
 ┌──(bubo4400@bubo-core)-[~/github]\
-└─$ ls projects.txt/\
+└─$ ls projects/\
 🗁 [DigitDrift/](https://github.com/Bubo4400/DigitDrift)\
 🗁 [Bloom_Filter](https://github.com/Bubo4400/Bloom_filter)\
 🗁 [Plantheon/](https://github.com/Bubo4400/Plantheon)\
